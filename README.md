@@ -8,4 +8,4 @@ _Growth mindset is a way of challenging yourself, don't let failure describe you
 
 ***My name is Mahad***
 
-[https://github.com/mmahad865/reading-notes}
+(https://github.com/mmahad865/reading-notes)
