@@ -6,6 +6,6 @@ _Growth mindset is a way of challenging yourself, don't let failure describe you
 - Keep moving forward
 - Always believe in yourself
 
-**My name is Mahad
+**My name is Mahad**
 
 [https://github.com/mmahad865/reading-notes}
