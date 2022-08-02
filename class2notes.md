@@ -8,19 +8,19 @@ _In the basic syntax I learned how to create a header using (#), how to create p
 _To make a text bold use (**) before and after the text, to make the middle text bold use (**) with no space_
 
 
-##Italic
+## Italic
   
 
 _To make a text a Italic use one (*) or one (_) before and after your words._
   
   
-  ##blockquotes
+  ## blockquotes
     
   
   _Add (>) before your text. For nested blockquotes add (>>) in front of the paragraph._
     
   
-  ##Ordered List and Unordered list
+  ## Ordered List and Unordered list
     
   
   _For Orderded list add iteam followed by numbers in order. For unordered list add (-), (*) or (+) _
@@ -31,5 +31,4 @@ _To make a text a Italic use one (*) or one (_) before and after your words._
   
   [Mahad'sNotes](https://mmahad865.github.io/reading-notesrepo/)
   
-   Side note, I made an extra page thinking you supposed to seprate the assigments.
-  
+   
