@@ -29,6 +29,6 @@ _To make a text a Italic use one (*) or one (_) before and after your words._
   
   _ Open the file with the images then use (!) and then (link of the image). _
   
-  [Mahad'sNotes](https://mmahad865.github.io/reading-notes/)
+  [Home Page](https://mmahad865.github.io/reading-notes/)
   
    
