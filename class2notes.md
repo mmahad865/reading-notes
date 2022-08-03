@@ -14,18 +14,18 @@ _To make a text bold use (**) before and after the text, to make the middle text
 _To make a text a Italic use one (*) or one (_) before and after your words._
   
   
-  ## blockquotes
+ ## blockquotes
     
   
   _Add (>) before your text. For nested blockquotes add (>>) in front of the paragraph._
     
   
-  ## Ordered List and Unordered list
+ ## Ordered List and Unordered list
     
   
   _For Orderded list add iteam followed by numbers in order. For unordered list add (-), (*) or (+) _
   
-  ## Images 
+ ## Images 
   
   _ Open the file with the images then use (!) and then (link of the image). _
   
