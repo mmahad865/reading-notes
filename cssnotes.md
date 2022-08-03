@@ -5,8 +5,8 @@
 
 **There are 3 ways to inserting css
 + *External CSS
--*Internal CSS
--*Inline CSS
++ *Internal CSS
++ *Inline CSS
 
 
 
