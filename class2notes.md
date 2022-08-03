@@ -11,13 +11,13 @@ _To make a text bold use (**) before and after the text, to make the middle text
 ## Italic
   
 
-_To make a text a Italic use one (*) or one (_) before and after your words._
+_To make a text a Italic use one (*) or one (_) before and after your words_
   
   
  ## blockquotes
     
   
-  _Add (>) before your text. For nested blockquotes add (>>) in front of the paragraph._
+  _Add (>) before your text. For nested blockquotes add (>>) in front of the paragraph_
     
   
  ## Ordered List and Unordered list
