@@ -4,7 +4,7 @@
 ## How to add it
 
 **There are 3 ways to inserting css
--*External CSS
++*External CSS
 -*Internal CSS
 -*Inline CSS
 
