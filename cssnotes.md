@@ -1,5 +1,5 @@
 ## What is CSS
-** It's a language of specifying how documents are presented to user, it can be used for every basic document. You can check the colors, how the buttons look like etc.**
+**It's a language of specifying how documents are presented to user, it can be used for every basic document. You can check the colors, how the buttons look like etc.**
 
 ## How to add it
 
