@@ -23,11 +23,11 @@ _To make a text a Italic use one (*) or one (_) before and after your words._
  ## Ordered List and Unordered list
     
   
-  _For Orderded list add iteam followed by numbers in order. For unordered list add (-), (*) or (+) _
+  _For Orderded list add iteam followed by numbers in order. For unordered list add (-), (*) or (+)_
   
  ## Images 
   
-  _ Open the file with the images then use (!) and then (link of the image). _
+  _Open the file with the images then use (!) and then (link of the image)._
   
   [Home Page](https://mmahad865.github.io/reading-notes/)
   
