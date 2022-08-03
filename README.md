@@ -8,7 +8,7 @@ _Growth mindset is a way of challenging yourself, don't let failure describe you
 - Keep moving forward
 - Always believe in yourself
 
-***My name is Mahad, 19 years old from Seattle.***
+***My name is Mahad, 19 years old from Seattle.One fact about me is I play a lot of video games and a lot of basketball.***
 
 [Mahadlink](https://github.com/mmahad865/reading-notes)
 
