@@ -20,12 +20,12 @@ _To make a text a Italic use one (*) or one (_) before and after your words_
   _Add (>) before your text. For nested blockquotes add (>>) in front of the paragraph_
     
   
- ## Ordered List and Unordered list
+ <h2> Ordered List and Unordered list </h2>
     
   
   _For Orderded list add iteam followed by numbers in order. For unordered list add (-), (*) or (+)_
   
- ## Images 
+ <h2> Images </h2>
   
   _Open the file with the images then use (!) and then (link of the image)._
   
