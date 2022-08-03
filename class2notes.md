@@ -14,7 +14,7 @@ _To make a text bold use (**) before and after the text, to make the middle text
 _To make a text a Italic use one (*) or one (_) before and after your words_
   
   
- ## blockquotes
+ <h2> blockquotes </h2>
     
   
   _Add (>) before your text. For nested blockquotes add (>>) in front of the paragraph_
