@@ -32,6 +32,9 @@
 
 **They both equal 7 just worded diffrently. Despite * and + coming in different orders, both expressions would result in 7 because * has precedence over +, so the *-joined expression will always be evaluated first.**
 
+[Home](https://mmahad865.github.io/reading-notes/)
+
+
 
 
 
