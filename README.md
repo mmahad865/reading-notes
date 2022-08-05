@@ -18,7 +18,7 @@ _Growth mindset is a way of challenging yourself, don't let failure describe you
 
 [JVNOTES](JavaScript.md)
 
-[Operation and loops](Operationandloops.md)
+[Operation and loops](Operationandloop.md)
 
 
 [Css notes](cssnotes.md)
