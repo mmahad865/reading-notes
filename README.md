@@ -12,6 +12,8 @@ _Growth mindset is a way of challenging yourself, don't let failure describe you
 
 [Mahadlink](https://github.com/mmahad865/reading-notes)
 
+[201 Notes](class201.md)
+
 [Home](https://mmahad865.github.io/reading-notes/)
 
 [Class notes](https://mmahad865.github.io/reading-notes/class2notes)
