@@ -1,4 +1,4 @@
-# Mahad's reading notes
+# About Me
 
 _Growth mindset is a way of challenging yourself, don't let failure describe you. Tough times don't last, tough people do, it can determind how you will achieve suceess in life._
 
@@ -28,6 +28,8 @@ _Growth mindset is a way of challenging yourself, don't let failure describe you
 [Git notes](gitt.md)
 
 [HTML Notes](htmlnotes.md)
+
+(https://mmahad865.github.io/cookie-stand/)
 
 
 
